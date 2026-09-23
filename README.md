@@ -35,7 +35,7 @@ Add to your `claude_desktop_config.json`:
 
 ### Claude.ai
 
-Go to **Settings → Integrations** and add `https://mxa.aledamail.com/mcp` as a custom MCP server.
+Go to **Settings → Connectors** and add `https://mxa.aledamail.com/mcp` as a custom MCP server.
 
 ## Key tools
 
